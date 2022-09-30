@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fa026e6-32cc-4f42-a37e-6d2d30dfd6fc" name="Changes" comment="UC1 Snake and Ladder Simulator Starting position">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/snakeladder/SnakeLadderSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/snakeladder/SnakeLadderSimulator.java" afterDir="false" />
-    </list>
+    <list default="true" id="5fa026e6-32cc-4f42-a37e-6d2d30dfd6fc" name="Changes" comment="UC1 Snake and Ladder Simulator Starting position" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +16,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="UC1_Snake_Ladder_Start_Position" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -37,12 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="SnakeLadderSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.snakeladder.SnakeLadderSimulator" />
