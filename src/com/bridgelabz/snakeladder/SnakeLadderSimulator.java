@@ -1,4 +1,4 @@
-// UC3 Player checks for a Option, They are No Play, Ladder or Snake.
+// UC4 Repeat till the Player reaches the winning position 100.
 
 package com.bridgelabz.snakeladder;
 import java.util.Random;
@@ -79,7 +79,10 @@ public class SnakeLadderSimulator
     public static void main(String[] args)
     {
         SnakeLadderSimulator sls = new SnakeLadderSimulator();
-        sls.start();
-        sls.calculatePlayerPosition();
+        for (player1Position = 0; player1Position <100; player1Position++)
+        {
+            sls.start();
+            sls.calculatePlayerPosition();
+        }
     }
 }
