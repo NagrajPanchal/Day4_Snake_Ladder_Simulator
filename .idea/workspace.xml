@@ -92,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664560543242</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="UC5 Ensure the player gets to exact winning Position 100.">
+      <created>1664664833743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664664833743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="UC1 Snake and Ladder Simulator Starting position" />
     <MESSAGE value="UC2 Snake and Ladder Simulator Roll die Random 1 to 6 numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="UC2 Snake and Ladder Simulator Roll die Random 1 to 6 numbers" />
+    <MESSAGE value="UC5 Ensure the player gets to exact winning Position 100." />
+    <option name="LAST_COMMIT_MESSAGE" value="UC5 Ensure the player gets to exact winning Position 100." />
   </component>
 </project>
