@@ -1,6 +1,7 @@
 /* UC6 Report the number of times the dice was played to win the game and
  also the position after every die role
 */
+
 package com.bridgelabz.snakeladder;
 import java.util.Random;
 public class SnakeLadderSimulator
@@ -82,6 +83,15 @@ public class SnakeLadderSimulator
         if(player1Position == WINNINGPOINT)
         {
             System.out.println("Congratulation 'Player1' won the Snake and Ladder Game ");
+        {
+            player1Position = player1Position - dice;
+        }
+    }
+    static void setWinningPoint()
+    {
+        if (player1Position > WINNINGPOINT)
+        {
+                player1Position = player1Position - dice;
         }
     }
     static void calculatePlayerPosition()
