@@ -1,0 +1,62 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,9 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="5fa026e6-32cc-4f42-a37e-6d2d30dfd6fc" name="Changes" comment="UC1 Snake and Ladder Simulator Starting position">
++    <list default="true" id="5fa026e6-32cc-4f42-a37e-6d2d30dfd6fc" name="Changes" comment="UC4 Repeat till the Player reaches the winning position 100.">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/snakeladder/SnakeLadderSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/snakeladder/SnakeLadderSimulator.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -26,7 +25,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="UC4_Repeat_Till_Winning_Position" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -62,6 +61,7 @@
+     </configuration>
+     <recent_temporary>
+       <list>
++        <item itemvalue="Application.SnakeLadderSimulator" />
+         <item itemvalue="Application.SnakeLadderSimulator" />
+         <item itemvalue="Application.SnakeLadderSimulator" />
+         <item itemvalue="Application.SnakeLadderSimulator" />
+@@ -92,7 +92,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1664560543242</updated>
+     </task>
+-    <option name="localTasksCounter" value="3" />
++    <task id="LOCAL-00003" summary="UC4 Repeat till the Player reaches the winning position 100.">
++      <created>1664567341780</created>
++      <option name="number" value="00003" />
++      <option name="presentableId" value="LOCAL-00003" />
++      <option name="project" value="LOCAL" />
++      <updated>1664567341780</updated>
++    </task>
++    <option name="localTasksCounter" value="4" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
+@@ -109,6 +116,7 @@
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="UC1 Snake and Ladder Simulator Starting position" />
+     <MESSAGE value="UC2 Snake and Ladder Simulator Roll die Random 1 to 6 numbers" />
+-    <option name="LAST_COMMIT_MESSAGE" value="UC2 Snake and Ladder Simulator Roll die Random 1 to 6 numbers" />
++    <MESSAGE value="UC4 Repeat till the Player reaches the winning position 100." />
++    <option name="LAST_COMMIT_MESSAGE" value="UC4 Repeat till the Player reaches the winning position 100." />
+   </component>
+ </project>
+\ No newline at end of file
