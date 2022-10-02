@@ -4,6 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="5fa026e6-32cc-4f42-a37e-6d2d30dfd6fc" name="Changes" comment="UC6 Report the number of times the dice was played to win the game and also the position after every die role">
+
     <list default="true" id="5fa026e6-32cc-4f42-a37e-6d2d30dfd6fc" name="Changes" comment="UC4 Repeat till the Player reaches the winning position 100.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/snakeladder/SnakeLadderSimulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/snakeladder/SnakeLadderSimulator.java" afterDir="false" />
@@ -21,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="UC3_Snake_Ladder_Player_Position" />
+    <option name="BRANCH" value="UC6_Number_of_Times_dice_Played_To_Win_Game" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
