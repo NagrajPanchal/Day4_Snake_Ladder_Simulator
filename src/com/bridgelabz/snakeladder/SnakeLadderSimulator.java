@@ -1,6 +1,7 @@
 /* UC7 Play the game with 2 Player. In this case if a Player gets a Ladder then plays
  again. Finally report which Player won the game
 */
+
 package com.bridgelabz.snakeladder;
 import java.util.Scanner;
 import java.util.Random;
@@ -102,6 +103,16 @@ public class SnakeLadderSimulator
         if(player1Position == WINNINGPOINT || player2Position == WINNINGPOINT)
         {
             System.out.println("Congratulation You won the Snake and Ladder Game ");
+            System.out.println("Congratulation 'Player1' won the Snake and Ladder Game ");
+        {
+            player1Position = player1Position - dice;
+        }
+    }
+    static void setWinningPoint()
+    {
+        if (player1Position > WINNINGPOINT)
+        {
+                player1Position = player1Position - dice;
         }
 
     }
